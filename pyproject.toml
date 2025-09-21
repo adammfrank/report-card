@@ -8,4 +8,7 @@ dependencies = [
     "camelot-py>=1.0.9",
     "matplotlib>=3.10.6",
     "pdfplumber>=0.11.7",
+    "psycopg2>=2.9.10",
+    "sqlalchemy>=2.0.43",
+    "sqlalchemy-utils>=0.42.0",
 ]
